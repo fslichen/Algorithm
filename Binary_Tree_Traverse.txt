@@ -1,0 +1,4 @@
+First order traverse is able to create binary trees in creation order, 
+but it fails to determine whether a knot is on the left or right hand side of the other knot.
+In order traverse is able to answser whether a knot is on the left or right hand side of the other knot.
+Therefore, combination of first order and in order traverse atraverse can uniquely determine a binary tree.
